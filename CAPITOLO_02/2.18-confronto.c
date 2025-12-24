@@ -6,8 +6,6 @@
 
 // CONFRONTO DI INTERI
 
-// Scrivete un programma che legga due interi inseriti dall'utente e quindi stampi il numero maggiore seguito dalle parole "is larger". Se i due numeri sono uguali, stampate il messaggio "These numbers are equal". Usate solamente la forma a selezione singola dell'istruzione if che avete imparato in questo capitolo.
-
 // Programma che confronta due interi
 
 #include <stdio.h>

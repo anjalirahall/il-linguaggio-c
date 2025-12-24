@@ -6,8 +6,6 @@
 
 // ARITMETICA
 
-// Scrivete un programma che legge due interi inseriti dall'utente, quindi ne stampi la somma, il prodotto, la differenza, il quoziente e il resto
-
 // Programma che calcola operazioni elementari tra due interi
 
 #include <stdio.h>

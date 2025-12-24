@@ -6,15 +6,6 @@
 
 // ARITMETICA, VALORE AGGIUNTO E VALORE MINORE
 
-// Scrivete un programma che riceva in ingresso tre diversi interi dalla tastiera, poi stampi la somma, la media, il prodotto, il minore e il maggiore di questi numeri. Usate solamente la forma a selezione singola dell'istruzione if che avete imparato in questo capitolo. Il dialogo sullo schermo deve apparire come segue:
-
-// Enter three different integers: 13 27 14
-// Sum is 54
-// Average is 18
-// Product is 4914
-// Smallest is 13
-// Largest is 27
-
 // Programma con tre numeri interi
 
 #include <stdio.h>

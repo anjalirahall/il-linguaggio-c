@@ -6,12 +6,6 @@
 
 // STAMPA DI VALORI CON printf
 
-// Scrivete un programma che stampi sulla stessa riga i numeri da 1 a 4.
-// Scrivete il programma usando i seguenti metodi.
-// a) uso di una sola istruzione printf senza specifiche di conversione
-// b) uso di una sola istruzione printf con quattro specifiche di conversione
-// c) uso di quattro istruzioni printf
-
 // Programma che stampa i numeri dall'1 al 4
 
 #include <stdio.h>

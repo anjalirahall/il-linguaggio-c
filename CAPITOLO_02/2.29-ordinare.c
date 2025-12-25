@@ -30,7 +30,6 @@ int main(void) {
 	}
 	
 	int largest = a;
-	int largestVariable = 1;
 	if (b > largest) {
 		largest = b;
 	}
